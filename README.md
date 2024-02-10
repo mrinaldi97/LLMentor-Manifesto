@@ -94,4 +94,4 @@ Un modello come quello di Wikipedia è ottimo per nozioni enciclopediche, a magg
 
 La questione della licenza verrà affrontata in seguito, prevista comunque una Creative Commons Attribuzione (eventualmente con aggiunta Non Commerciale e Non Derivati) ad uso "umano" per evitare plagi, ma con liberatoria per quanto riguarda l'addestramento dei modelli (pubblico dominio)
 
-© 2023 Matteo Rinaldi
+© July 2023 Matteo Rinaldi
